@@ -1,0 +1,5 @@
+MODEL_PATH = "../models/best.pt"
+DEFAULT_IMAGE_SIZE = 640
+DEFAULT_CONFIDENCE = 0.25
+PROJECT_NAME = "Wind Turbine Blade Defect Detection API"
+PROJECT_VERSION = "0.1.0"
